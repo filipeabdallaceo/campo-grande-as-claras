@@ -1,4 +1,9 @@
 (() => {
+  document.documentElement.classList.add('js');
+  const menu=document.querySelector('.menu-toggle');
+  menu?.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'Fechar menu':'Abrir menu');document.querySelector('.site-header').classList.toggle('menu-open',open);});
+  document.addEventListener('keydown',event=>{if(event.key==='Escape' && menu?.getAttribute('aria-expanded')==='true'){menu.click();menu.focus();}});
+
   const normalize = value => String(value).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
   const toast = message => { const el=document.querySelector('.toast'); el.textContent=message; el.hidden=false; clearTimeout(window.toastTimer); window.toastTimer=setTimeout(()=>{el.hidden=true;},4000); };
   const form=document.querySelector('[data-filter-form]');

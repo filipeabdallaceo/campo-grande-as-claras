@@ -41,3 +41,9 @@ for(const width of [320,390,768,1440]) test(`Sem overflow e com navegação em $
   await expect(page.locator('h1')).toBeVisible();
  }
 });
+test('Busca da página inicial leva aos registros encontrados',async({page})=>{
+ await page.goto('/');await page.getByLabel('Buscar bairro, obra ou proposta').fill('itatiaia');await page.getByRole('button',{name:'Buscar ações',exact:true}).click();await expect(page).toHaveURL(/acoes\/\?q=itatiaia/);await expect(page.locator('[data-item]:visible')).toHaveCount(1);
+});
+test('Menu móvel abre, permite navegar e fecha pelo teclado',async({page})=>{
+ await page.setViewportSize({width:390,height:844});await page.goto('/');const nav=page.getByRole('navigation',{name:'Navegação principal'});await expect(nav).toBeHidden();await page.getByRole('button',{name:'Abrir menu'}).click();await expect(nav).toBeVisible();await page.keyboard.press('Escape');await expect(nav).toBeHidden();await page.getByRole('button',{name:'Abrir menu'}).click();await nav.getByRole('link',{name:'Contratos',exact:true}).click();await expect(page).toHaveURL(/\/contratos\//);
+});

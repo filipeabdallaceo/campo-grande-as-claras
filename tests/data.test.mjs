@@ -36,7 +36,7 @@ test('Todas as páginas e links internos gerados existem',async()=>{
     const file=new URL('../dist'+(route==='/'?'/index.html':route+'index.html'),import.meta.url);
     const html=await readFile(file,'utf8');
     assert.match(html,/<html lang="pt-BR">/);
-    assert.match(html,/<main id="conteudo">/);
+    assert.match(html,/<main id="conteudo"[^>]*>/);
     assert.equal((html.match(/<h1[ >]/g)||[]).length,1);
     for(const match of html.matchAll(/(?:href|src)="(\/[^"]*)"/g)) {
       const link=match[1].split(/[?#]/)[0];
