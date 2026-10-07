@@ -66,3 +66,12 @@ Abra uma issue identificando página, trecho, correção proposta e documento of
 4. Incorporar ALEMS e Câmara federal como conjuntos separados, preservando cargo, período e competências.
 
 A versão piloto ainda não oferece recebimento de denúncias, cadastro, notificações, atualização automática de conclusões ou acompanhamento de protocolos.
+
+## Publicação inicial
+
+- Site: https://campo-grande-as-claras-k8cpf.ondigitalocean.app
+- DigitalOcean App ID: `2a99833a-b1f7-4108-9d90-217860b104e0`
+- Projeto: Campo Grande às Claras (`ebac61b9-1985-4cbf-bf59-8769e68417f2`).
+- Componente Static Site, sem servidor ou banco, custo de infraestrutura indicado no painel: US$ 0/mês dentro da franquia. A conta e cobrança continuam compartilhadas com a equipe existente; recursos e aplicativo separados do FisIA.
+- Fonte pública via Git: após revisar os dados, executar build e prepare-deploy, fazer commit/push e usar Deploy no painel deste aplicativo. Não há atualização automática de dados ou deploy por webhook nesta configuração.
+- Correções: https://github.com/filipeabdallaceo/campo-grande-as-claras/issues/new
