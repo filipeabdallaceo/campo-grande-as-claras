@@ -1,0 +1,371 @@
+[
+  {
+    "id": "guanandi-1",
+    "title": "Guanandi II: drenagem e pavimentação, primeira etapa",
+    "type": "Obra",
+    "theme": "Infraestrutura",
+    "places": [
+      "Guanandi II"
+    ],
+    "valueCents": 770000000,
+    "valueBasis": "Valor arredondado informado pela Prefeitura",
+    "supplier": "Macro Engenharia e Construções Ltda.",
+    "contractNumber": null,
+    "status": "Contratação informada",
+    "statusKey": "informada",
+    "stage": 1,
+    "date": "2026-09-29",
+    "agency": "Administração municipal",
+    "personIds": [
+      "adriane-lopes"
+    ],
+    "relationship": "Chefia do Executivo municipal; não implica autoria exclusiva.",
+    "sourceIds": [
+      "obras-setembro"
+    ],
+    "summary": "Intervenção de infraestrutura anunciada pelo Executivo municipal.",
+    "deadlineDays": 240,
+    "deadlineStart": null,
+    "deadlineBasis": "Condição de início a conferir no extrato individual",
+    "known": [
+      "A Prefeitura informou a contratação e a empresa responsável."
+    ],
+    "unknown": [
+      "Extrato individual e valor exato do contrato.",
+      "Data de início, medições, pagamentos e recebimento da obra."
+    ],
+    "question": "Solicito o extrato individual, o número do contrato e as ordens de serviço referentes a Guanandi II: drenagem e pavimentação, primeira etapa, além das medições, pagamentos e situação atual da execução."
+  },
+  {
+    "id": "guanandi-2",
+    "title": "Guanandi II: drenagem e pavimentação, segunda etapa",
+    "type": "Obra",
+    "theme": "Infraestrutura",
+    "places": [
+      "Guanandi II"
+    ],
+    "valueCents": 860000000,
+    "valueBasis": "Valor arredondado informado pela Prefeitura",
+    "supplier": "Macro Engenharia e Construções Ltda.",
+    "contractNumber": null,
+    "status": "Contratação informada",
+    "statusKey": "informada",
+    "stage": 1,
+    "date": "2026-09-29",
+    "agency": "Administração municipal",
+    "personIds": [
+      "adriane-lopes"
+    ],
+    "relationship": "Chefia do Executivo municipal; não implica autoria exclusiva.",
+    "sourceIds": [
+      "obras-setembro"
+    ],
+    "summary": "Intervenção de infraestrutura anunciada pelo Executivo municipal.",
+    "deadlineDays": 240,
+    "deadlineStart": null,
+    "deadlineBasis": "Condição de início a conferir no extrato individual",
+    "known": [
+      "A Prefeitura informou a contratação e a empresa responsável."
+    ],
+    "unknown": [
+      "Extrato individual e valor exato do contrato.",
+      "Data de início, medições, pagamentos e recebimento da obra."
+    ],
+    "question": "Solicito o extrato individual, o número do contrato e as ordens de serviço referentes a Guanandi II: drenagem e pavimentação, segunda etapa, além das medições, pagamentos e situação atual da execução."
+  },
+  {
+    "id": "sao-conrado",
+    "title": "Jardim São Conrado: drenagem e pavimentação, segunda etapa",
+    "type": "Obra",
+    "theme": "Infraestrutura",
+    "places": [
+      "Jardim São Conrado"
+    ],
+    "valueCents": 1346000000,
+    "valueBasis": "Valor arredondado informado pela Prefeitura",
+    "supplier": "Mobicon Construtora Ltda.",
+    "contractNumber": null,
+    "status": "Contratação informada",
+    "statusKey": "informada",
+    "stage": 1,
+    "date": "2026-09-29",
+    "agency": "Administração municipal",
+    "personIds": [
+      "adriane-lopes"
+    ],
+    "relationship": "Chefia do Executivo municipal; não implica autoria exclusiva.",
+    "sourceIds": [
+      "obras-setembro"
+    ],
+    "summary": "Intervenção de infraestrutura anunciada pelo Executivo municipal.",
+    "deadlineDays": 270,
+    "deadlineStart": null,
+    "deadlineBasis": "Condição de início a conferir no extrato individual",
+    "known": [
+      "A Prefeitura informou a contratação e a empresa responsável."
+    ],
+    "unknown": [
+      "Extrato individual e valor exato do contrato.",
+      "Data de início, medições, pagamentos e recebimento da obra."
+    ],
+    "question": "Solicito o extrato individual, o número do contrato e as ordens de serviço referentes a Jardim São Conrado: drenagem e pavimentação, segunda etapa, além das medições, pagamentos e situação atual da execução."
+  },
+  {
+    "id": "jardim-nacoes",
+    "title": "Jardim das Nações: drenagem e pavimentação, segunda etapa",
+    "type": "Obra",
+    "theme": "Infraestrutura",
+    "places": [
+      "Jardim das Nações"
+    ],
+    "valueCents": 522000000,
+    "valueBasis": "Valor arredondado informado pela Prefeitura",
+    "supplier": "Relevo Engenharia Ltda.",
+    "contractNumber": null,
+    "status": "Contratação informada",
+    "statusKey": "informada",
+    "stage": 1,
+    "date": "2026-09-29",
+    "agency": "Administração municipal",
+    "personIds": [
+      "adriane-lopes"
+    ],
+    "relationship": "Chefia do Executivo municipal; não implica autoria exclusiva.",
+    "sourceIds": [
+      "obras-setembro"
+    ],
+    "summary": "Intervenção de infraestrutura anunciada pelo Executivo municipal.",
+    "deadlineDays": 360,
+    "deadlineStart": null,
+    "deadlineBasis": "Condição de início a conferir no extrato individual",
+    "known": [
+      "A Prefeitura informou a contratação e a empresa responsável."
+    ],
+    "unknown": [
+      "Extrato individual e valor exato do contrato.",
+      "Data de início, medições, pagamentos e recebimento da obra."
+    ],
+    "question": "Solicito o extrato individual, o número do contrato e as ordens de serviço referentes a Jardim das Nações: drenagem e pavimentação, segunda etapa, além das medições, pagamentos e situação atual da execução."
+  },
+  {
+    "id": "taruma-e-regiao",
+    "title": "Drenagem e pavimentação no Tarumã e bairros próximos",
+    "type": "Obra",
+    "theme": "Infraestrutura",
+    "places": [
+      "Jardim Tarumã",
+      "Jardim Sol Poente",
+      "Jardim Portal das Laranjeiras",
+      "Vila Gaúcha"
+    ],
+    "valueCents": 1158000000,
+    "valueBasis": "Valor arredondado informado pela Prefeitura",
+    "supplier": "TST Construções Ltda.",
+    "contractNumber": null,
+    "status": "Contratação informada",
+    "statusKey": "informada",
+    "stage": 1,
+    "date": "2026-09-29",
+    "agency": "Administração municipal",
+    "personIds": [
+      "adriane-lopes"
+    ],
+    "relationship": "Chefia do Executivo municipal; não implica autoria exclusiva.",
+    "sourceIds": [
+      "obras-setembro"
+    ],
+    "summary": "Intervenção de infraestrutura anunciada pelo Executivo municipal.",
+    "deadlineDays": 270,
+    "deadlineStart": null,
+    "deadlineBasis": "Condição de início a conferir no extrato individual",
+    "known": [
+      "A Prefeitura informou a contratação e a empresa responsável."
+    ],
+    "unknown": [
+      "Extrato individual e valor exato do contrato.",
+      "Data de início, medições, pagamentos e recebimento da obra."
+    ],
+    "question": "Solicito o extrato individual, o número do contrato e as ordens de serviço referentes a Drenagem e pavimentação no Tarumã e bairros próximos, além das medições, pagamentos e situação atual da execução."
+  },
+  {
+    "id": "kellem-ouro-verde",
+    "title": "Drenagem e pavimentação na Vila Kellem e Ouro Verde",
+    "type": "Obra",
+    "theme": "Infraestrutura",
+    "places": [
+      "Jardim Vila Kellem",
+      "Jardim Ouro Verde"
+    ],
+    "valueCents": 1300000000,
+    "valueBasis": "Valor arredondado informado pela Prefeitura",
+    "supplier": "TST Construções Ltda.",
+    "contractNumber": null,
+    "status": "Contratação informada",
+    "statusKey": "informada",
+    "stage": 1,
+    "date": "2026-09-29",
+    "agency": "Administração municipal",
+    "personIds": [
+      "adriane-lopes"
+    ],
+    "relationship": "Chefia do Executivo municipal; não implica autoria exclusiva.",
+    "sourceIds": [
+      "obras-setembro"
+    ],
+    "summary": "Intervenção de infraestrutura anunciada pelo Executivo municipal.",
+    "deadlineDays": 270,
+    "deadlineStart": null,
+    "deadlineBasis": "Condição de início a conferir no extrato individual",
+    "known": [
+      "A Prefeitura informou a contratação e a empresa responsável."
+    ],
+    "unknown": [
+      "Extrato individual e valor exato do contrato.",
+      "Data de início, medições, pagamentos e recebimento da obra."
+    ],
+    "question": "Solicito o extrato individual, o número do contrato e as ordens de serviço referentes a Drenagem e pavimentação na Vila Kellem e Ouro Verde, além das medições, pagamentos e situação atual da execução."
+  },
+  {
+    "id": "itatiaia-etapa-d",
+    "title": "Jardim Itatiaia: asfalto e drenagem, etapa D",
+    "type": "Obra",
+    "theme": "Infraestrutura",
+    "places": [
+      "Jardim Itatiaia"
+    ],
+    "valueCents": 496000000,
+    "valueBasis": "Valor arredondado informado pela Prefeitura",
+    "supplier": "Gradual Engenharia e Consultoria Ltda.",
+    "contractNumber": "262/2026",
+    "status": "Contratação informada",
+    "statusKey": "informada",
+    "stage": 1,
+    "date": "2026-10-05",
+    "agency": "SISEP",
+    "personIds": [
+      "adriane-lopes"
+    ],
+    "relationship": "Chefia do Executivo municipal; execução atribuída à SISEP e à contratada.",
+    "sourceIds": [
+      "itatiaia"
+    ],
+    "summary": "Etapa anunciada de pavimentação e drenagem em vias do Jardim Itatiaia.",
+    "deadlineDays": 180,
+    "deadlineStart": null,
+    "deadlineBasis": "Recebimento da ordem de execução pela contratada",
+    "known": [
+      "A divulgação identifica contrato, empresa, bairro e prazo."
+    ],
+    "unknown": [
+      "Extrato original vinculado e valor exato.",
+      "Recebimento da ordem de execução, medições e pagamentos."
+    ],
+    "question": "Solicito o extrato do Contrato 262/2026, a ordem de execução e sua data de recebimento, o cronograma físico-financeiro, as medições e os pagamentos da etapa D no Jardim Itatiaia."
+  },
+  {
+    "id": "convive",
+    "title": "Construção do Centro Comunitário pela Vida, Convive",
+    "type": "Obra",
+    "theme": "Cidadania",
+    "places": [],
+    "valueCents": 1365045678,
+    "valueBasis": "Valor total do extrato contratual",
+    "supplier": "Domine Engenharia e Serviços Ltda.",
+    "contractNumber": "139/2026",
+    "status": "Contrato publicado",
+    "statusKey": "documentada",
+    "stage": 1,
+    "date": "2026-07-01",
+    "agency": "SISEP",
+    "personIds": [
+      "adriane-lopes"
+    ],
+    "relationship": "Chefia do Executivo municipal; contrato firmado pelo Município com interveniência da SISEP.",
+    "sourceIds": [
+      "convive-diario"
+    ],
+    "summary": "Construção de equipamento comunitário contratada pelo Município.",
+    "deadlineDays": 360,
+    "deadlineStart": null,
+    "deadlineBasis": "Recebimento da ordem de execução pela contratada",
+    "known": [
+      "Contrato 139/2026 e valor conferidos no extrato do Diogrande.",
+      "Prazo de execução condicionado ao recebimento da ordem de execução."
+    ],
+    "unknown": [
+      "Localização exata, ordem de execução e data de início.",
+      "Medições, pagamentos e eventual entrega."
+    ],
+    "question": "Solicito a ordem de execução do Contrato 139/2026 (Convive), com data de recebimento pela contratada, endereço da obra, cronograma, medições, pagamentos e situação atual."
+  },
+  {
+    "id": "iptu-1018",
+    "title": "Proposta de alteração da alíquota do imposto predial",
+    "type": "Proposta",
+    "theme": "Tributos",
+    "places": [],
+    "valueCents": null,
+    "valueBasis": null,
+    "supplier": null,
+    "contractNumber": "PLC 1.018/2026",
+    "status": "Texto da proposta localizado",
+    "statusKey": "proposta",
+    "stage": 0,
+    "date": "2026-01-28",
+    "agency": "Câmara Municipal",
+    "personIds": [
+      "andre-salineiro"
+    ],
+    "relationship": "Autoria identificada no texto original.",
+    "sourceIds": [
+      "pl-iptu"
+    ],
+    "summary": "O texto propõe alíquota de 0,5% sobre o valor venal de imóveis edificados.",
+    "deadlineDays": null,
+    "deadlineStart": null,
+    "deadlineBasis": null,
+    "known": [
+      "Texto original e autoria conferidos."
+    ],
+    "unknown": [
+      "Situação atual da tramitação e votações.",
+      "Aprovação, sanção e eventual implementação."
+    ],
+    "question": "Solicito a tramitação atualizada de PLC 1.018/2026, com pareceres, votações, emendas e informação sobre eventual sanção ou arquivamento."
+  },
+  {
+    "id": "orcamento-infancia",
+    "title": "Proposta de relatório do orçamento da criança e do adolescente",
+    "type": "Proposta",
+    "theme": "Transparência",
+    "places": [],
+    "valueCents": null,
+    "valueBasis": null,
+    "supplier": null,
+    "contractNumber": "PL 12.250/2026",
+    "status": "Texto da proposta localizado",
+    "statusKey": "proposta",
+    "stage": 0,
+    "date": "2026-01-28",
+    "agency": "Câmara Municipal",
+    "personIds": [
+      "ana-portela"
+    ],
+    "relationship": "Autoria identificada no texto original.",
+    "sourceIds": [
+      "pl-infancia"
+    ],
+    "summary": "O texto propõe relatório anual para identificar despesas municipais relacionadas à infância e adolescência.",
+    "deadlineDays": null,
+    "deadlineStart": null,
+    "deadlineBasis": null,
+    "known": [
+      "Texto original e autoria conferidos."
+    ],
+    "unknown": [
+      "Situação atual da tramitação e votações.",
+      "Aprovação, sanção e eventual implementação."
+    ],
+    "question": "Solicito a tramitação atualizada de PL 12.250/2026, com pareceres, votações, emendas e informação sobre eventual sanção ou arquivamento."
+  }
+]

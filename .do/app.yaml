@@ -1,0 +1,13 @@
+name: campo-grande-as-claras
+region: nyc
+static_sites:
+  - name: site
+    environment_slug: html
+    source_dir: /site
+    index_document: index.html
+    error_document: 404.html
+    git:
+      repo_clone_url: https://github.com/filipeabdallaceo/campo-grande-as-claras.git
+      branch: main
+    routes:
+      - path: /

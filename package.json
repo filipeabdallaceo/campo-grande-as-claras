@@ -1,0 +1,16 @@
+{
+  "name": "campo-grande-as-claras",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Observatório cidadão municipal de Campo Grande, MS",
+  "scripts": {
+    "build": "python3 scripts/import-contracts.py && node scripts/validate.mjs && node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test tests/data.test.mjs",
+    "test:browser": "playwright test",
+    "check:sources": "python3 scripts/check-sources.py"
+  },
+  "devDependencies": { "@playwright/test": "1.63.0" },
+  "engines": { "node": ">=22" }
+}

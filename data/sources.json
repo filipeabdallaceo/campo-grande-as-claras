@@ -1,0 +1,72 @@
+[
+  {
+    "id": "contratos-csv-2026",
+    "title": "Contratos municipais: arquivo aberto 2026",
+    "publisher": "Prefeitura de Campo Grande",
+    "kind": "Dados abertos",
+    "url": "https://cdn.campogrande.ms.gov.br/portal/prod/uploads/2026/05/Consulta_de_Contratos__2026.csv",
+    "publishedOn": null,
+    "checkedOn": "2026-10-07",
+    "note": "Arquivo disponibilizado na pasta de maio de 2026. A data de publicação não está declarada no CSV. Cobertura parcial, sem pagamentos."
+  },
+  {
+    "id": "posse-2025",
+    "title": "Diário do Legislativo de 6 de janeiro de 2025: posse e composição",
+    "publisher": "Câmara Municipal de Campo Grande",
+    "kind": "Diário oficial",
+    "url": "https://camara.ms.gov.br/wp-content/uploads/2025/01/06_01_25.pdf",
+    "publishedOn": "2025-01-06",
+    "checkedOn": "2026-10-07",
+    "note": "Referência histórica de posse. Licenças, suplências e mudanças posteriores ainda não estão consolidadas."
+  },
+  {
+    "id": "obras-setembro",
+    "title": "Contratações de drenagem e pavimentação divulgadas em 29 de setembro",
+    "publisher": "Prefeitura de Campo Grande / CGNotícias",
+    "kind": "Comunicação institucional",
+    "url": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/prefcg-oficializa-novos-contratos-para-obras-de-drenagem-e-pavimentacao/",
+    "publishedOn": "2026-09-29",
+    "checkedOn": "2026-10-07",
+    "note": "Valores arredondados divulgados pelo Executivo. Os extratos individuais, pagamentos e execução física ainda precisam ser vinculados."
+  },
+  {
+    "id": "itatiaia",
+    "title": "Divulgação do Contrato 262/2026 para o Jardim Itatiaia",
+    "publisher": "Prefeitura de Campo Grande / CGNotícias",
+    "kind": "Comunicação institucional",
+    "url": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/investimento-de-r-49-milhoes-impulsiona-nova-etapa-de-asfalto-e-drenagem-no-jd-itatiaia/",
+    "publishedOn": "2026-10-05",
+    "checkedOn": "2026-10-07",
+    "note": "Valor arredondado e prazo informados pela Prefeitura. Não comprova emissão da ordem de serviço nem entrega."
+  },
+  {
+    "id": "convive-diario",
+    "title": "Diogrande 8.374, página 2: Contrato 139/2026",
+    "publisher": "Prefeitura de Campo Grande / Diogrande",
+    "kind": "Diário oficial",
+    "url": "https://diogrande.campogrande.ms.gov.br/download_edicao/eyJjb2RpZ29kaWEiOiIxMDQzNCJ9.pdf#page=2",
+    "publishedOn": "2026-07-01",
+    "checkedOn": "2026-10-07",
+    "note": "Extrato conferido no documento original. Prazo contado do recebimento da ordem de execução pela contratada."
+  },
+  {
+    "id": "pl-iptu",
+    "title": "Projeto de Lei Complementar Legislativo 1.018/2026",
+    "publisher": "Câmara Municipal de Campo Grande / Legis",
+    "kind": "Proposta legislativa",
+    "url": "https://legis.camara.ms.gov.br/ato/consolidado/id/110100/projeto_de_lei_complementar_legislativo/2026/1018/projeto_de_lei_complementar_legislativo-n-1018-2026-altera_dispositivos_da_lei_n._1.466_de_26_de_outubro_de_1973_que_institui_o_codigo_tributario_do_municipio_de_campo_grande_ms_e_da_outras_providencias.",
+    "publishedOn": "2026-01-28",
+    "checkedOn": "2026-10-07",
+    "note": "Data de assinatura do projeto. Texto da proposta conferido; tramitação e aprovação posteriores não consolidadas."
+  },
+  {
+    "id": "pl-infancia",
+    "title": "Projeto de Lei Legislativo 12.250/2026",
+    "publisher": "Câmara Municipal de Campo Grande / Legis",
+    "kind": "Proposta legislativa",
+    "url": "https://legis.camara.ms.gov.br/ato/consolidado/id/110102/projeto_de_lei_legislativo/2026/12250/projeto_de_lei_legislativo-n-12250-2026-institui_o_relatorio_tematico_orcamento_da_crianca_e_do_adolescente_como_instrumento_de_controle_social_e_fiscalizacao_do_orcamento_publico_no_ambito_do_municipio_de_campo_grande_ms.",
+    "publishedOn": "2026-01-28",
+    "checkedOn": "2026-10-07",
+    "note": "Data de assinatura do projeto. A proposta não deve ser tratada como obrigação vigente sem confirmação de sanção."
+  }
+]
