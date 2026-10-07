@@ -11,7 +11,7 @@ test('Busca municipal ignora acentos e combina bairro com tipo',async({page})=>{
 test('Filtro do endereço é reproduzível e não injeta HTML',async({page})=>{
  await page.goto('/acoes/?place=Jardim%20Itatiaia'); await expect(page.locator('[data-item]:visible')).toHaveCount(1);
  await page.goto('/acoes/?q=%3Cimg%20src%3Dx%20onerror%3Dalert(1)%3E');
- await expect(page.locator('[data-empty]')).toBeVisible();await expect(page.locator('img')).toHaveCount(0);
+ await expect(page.locator('[data-empty]')).toBeVisible();await expect(page.locator('img[src="x"], img[onerror]')).toHaveCount(0);
 });
 test('Contratos identificam valor previsto e permitem encontrar cadastro',async({page})=>{
  await page.goto('/contratos/');await page.getByLabel('Buscar contrato').fill('209651');

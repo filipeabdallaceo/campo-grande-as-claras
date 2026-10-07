@@ -75,3 +75,7 @@ A versão piloto ainda não oferece recebimento de denúncias, cadastro, notific
 - Componente Static Site, sem servidor ou banco, custo de infraestrutura indicado no painel: US$ 0/mês dentro da franquia. A conta e cobrança continuam compartilhadas com a equipe existente; recursos e aplicativo separados do FisIA.
 - Fonte pública via Git: após revisar os dados, executar build e prepare-deploy, fazer commit/push e usar Deploy no painel deste aplicativo. Não há atualização automática de dados ou deploy por webhook nesta configuração.
 - Correções: https://github.com/filipeabdallaceo/campo-grande-as-claras/issues/new
+
+## Identidade visual
+
+Marca vetorial com texto em curvas em `public/brand/`, variações transparentes PNG, favicon, avatar, cartão social e guia. Paleta: #123D51, #176B5B, #F2C94C, #EFF6F5 e #FFFFFF. Fontes Sora e Public Sans, licenciadas sob SIL OFL, hospedadas em `public/fonts/`. Guia e kit disponíveis em `/brand/guia.html`. Arquivos de entrega em `identidade-visual/`.
